@@ -1,5 +1,5 @@
 ---
-title: "AI技能（Skill）入门与实战全总结"
+title: "AI技能（Skill）入门与实战全总结！"
 description: "从零理解AI Skill是什么、怎么配置、怎么使用、实战案例完整讲解"
 pubDate: 2026-04-12
 tags: ["AI", "Skill", "Coder", "微服务", "自动化"]
